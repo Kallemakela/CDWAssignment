@@ -1,8 +1,9 @@
-author_affiliations/data_copy
-author_affiliations/data/*/*
-author_affiliations/data/*.csv
-author_affiliations/processed_data/*
-author_affiliations/results/*
+data_copy
+data/*/*
+data/*.csv
+processed_data/*
+results/*
+env_local.yml
 .vscode
 .pytest_cache
 .ipynb_checkpoints
